@@ -28,3 +28,11 @@
 *   Integration tests
 *   Functional tests
 *   End-to-end tests
+
+### Test-Driven Development (TDD)
+
+*   Software development process
+*   Converts requirements to test cases before development starts
+*   Run tests before code is written
+*   Keep the unit small
+*   Test-driven development cycle
