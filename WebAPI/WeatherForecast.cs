@@ -1,4 +1,7 @@
+using System;
+
 namespace WebAPI;
+
 public class WeatherForecast
 {
     public DateTime Date { get; set; }
