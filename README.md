@@ -36,3 +36,17 @@
 *   Run tests before code is written
 *   Keep the unit small
 *   Test-driven development cycle
+
+### Agile Software Development
+
+*   Ability to create and respond to change
+*   Good for uncertain and changing environments
+*   Agile Manifesto (4 values and 12 principles)
+*   Collaboration
+*   Solf-organizing teams
+
+### SCRUM (Systematic Customer Resolution Unraveling Meeting)
+
+*   Subset of Agile
+*   Lightweight process framework
+*   Most popular in Agile Development
