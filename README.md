@@ -1,6 +1,6 @@
 ## ASPNETCoreTesting
 
-> ASP.NET Core Testing repo for testing software and writing unit tests for an ASP.NET Core Web API.
+> ASP.NET Core Testing repository for testing software and writing unit tests for an ASP.NET Core Web API.
 
 ## Topics covered in this repo:
 
